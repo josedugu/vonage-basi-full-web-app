@@ -1,0 +1,5 @@
+node_modules
+vonage_app.json
+vonage_tutorial_jose.key
+.env
+.gitignore
